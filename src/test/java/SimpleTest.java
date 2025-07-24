@@ -6,6 +6,6 @@ public class SimpleTest {
 
     @Test
     public void simpleTest() {
-        assertTrue(true);
+        assertTrue(1 == 1);
     }
 }
